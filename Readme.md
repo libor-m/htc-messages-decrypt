@@ -22,6 +22,9 @@ Max key len: 2147483647
 Decrypting with password: my_backup_password
 ```
 
+## Compatibility
+Tested on data files from latest HTC One M7 (only!).
+
 ## License
 MIT, NO warranty, NO support!
 
