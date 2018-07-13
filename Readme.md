@@ -22,6 +22,9 @@ Max key len: 2147483647
 Decrypting with password: my_backup_password
 ```
 
+## License
+MIT, NO warranty, NO support!
+
 # Analysis notes
 
 `public static final String VALUES_KEY_PASSWORD = "password";`
